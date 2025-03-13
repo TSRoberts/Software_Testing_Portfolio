@@ -1,2 +1,2 @@
 # Software_Testing_Portfolio
-My portfolio of manual testing.
+A portfolio of manual testing practice projects.
